@@ -1,6 +1,6 @@
 function Bubble()
 {
-    c_delay=0;
+    c_delay=0; k;
 
     for(var i=0;i<array_size-1;i++)
     {
